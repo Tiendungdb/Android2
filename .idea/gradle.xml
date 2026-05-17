@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/calculator" />
+            <option value="$PROJECT_DIR$/app/clockremake" />
+            <option value="$PROJECT_DIR$/app/cooking" />
+            <option value="$PROJECT_DIR$/app/expensify" />
+            <option value="$PROJECT_DIR$/app/health" />
+            <option value="$PROJECT_DIR$/app/music" />
+            <option value="$PROJECT_DIR$/app/note" />
+            <option value="$PROJECT_DIR$/app/questionaire" />
+            <option value="$PROJECT_DIR$/app/quote" />
+            <option value="$PROJECT_DIR$/app/reader" />
+            <option value="$PROJECT_DIR$/app/texttospeech" />
+            <option value="$PROJECT_DIR$/app/unitconverter" />
+            <option value="$PROJECT_DIR$/app/vocabulary" />
+            <option value="$PROJECT_DIR$/app/weather" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
